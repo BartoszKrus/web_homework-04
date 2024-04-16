@@ -1,5 +1,4 @@
 import mimetypes
-# import pathlib
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import urllib.parse
 import socketserver
